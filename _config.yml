@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Sean Anderson"
 title_separator          : "-"
 name                     : &name "Sean Anderson"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "roguephysicist/roguephysicist.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Sean Anderson2"
+  name             : "Sean Anderson"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "WFU High-Performance and Research Computing Team"
   location         : "Winston-Salem, NC"
   employer         : "Wake Forest University"
   uri              : # URL
